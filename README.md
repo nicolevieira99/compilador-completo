@@ -1,4 +1,12 @@
 # CasaScript 2.0 — Compilador para Estufa Inteligente
+## Contribuintes:
+Felipe Ferreira - 2993620
+Igor Xavier - 2352643
+Nicole Vieira - 2438577
+Sthefany Alves - 2457820
+Vitória Santos - 2392314
+
+## Resumo
 
 Este projeto implementa um compilador e um runtime para uma pequena linguagem de automação de estufas. A aplicação permite descrever regras sobre temperatura, umidade, luminosidade, horário, chuva e clima, validá-las antes da execução e acionar dispositivos simulados. Em uma estufa real, regras inválidas ou incompatíveis podem deixar de irrigar, ventilar ou abrir uma janela quando necessário; por isso, o compilador verifica a estrutura, os tipos, os dispositivos e os limites antes de permitir a simulação.
 
